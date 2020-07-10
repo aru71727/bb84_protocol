@@ -1,4 +1,6 @@
-Quantum key distribution
+Quantum key distribution:
+
+
 The aim of quantum key distribution is to allow Alice and Bob to generate a secure private key
 that can be used for the one-time pad without having to meet privately. They will be able to
 accomplish this task by using quantum information. There are a few different schemes for doing
